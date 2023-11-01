@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm an anthropologist ☠️
+- I'm excited to learn more about programming and become a cool hacker 🤖
+- Soon starting with python 🐍
 
 <!--
 **carlabraeuer/carlabraeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
